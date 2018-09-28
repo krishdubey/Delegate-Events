@@ -1,0 +1,7 @@
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\bin\Debug\DelegateEventsAsync.exe.config
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\bin\Debug\DelegateEventsAsync.exe
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\bin\Debug\DelegateEventsAsync.pdb
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\obj\Debug\DelegateEventsAsync.csprojAssemblyReference.cache
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\obj\Debug\DelegateEventsAsync.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\obj\Debug\DelegateEventsAsync.exe
+G:\c#.netPrograms\DelegateEventsAsync\DelegateEventsAsync\obj\Debug\DelegateEventsAsync.pdb
